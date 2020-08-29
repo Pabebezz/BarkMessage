@@ -1,4 +1,4 @@
-# 推送消息至ipone
+# 利用Bark推送消息至ipone
 
 安装所需库（那啥，所用都是python自带的库，so这一步不用了。。）
 
@@ -30,3 +30,10 @@ if 'BarkMessage' in os.getcwd():
 print(os.getcwd())
 ```
 
+
+
+# 致谢
+
+感谢[大佬](https://github.com/Finb)
+
+[项目地址](https://github.com/Finb/Bark)
