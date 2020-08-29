@@ -36,4 +36,6 @@ print(os.getcwd())
 
 感谢[大佬](https://github.com/Finb)
 
-[项目地址](https://github.com/Finb/Bark)
+客户端代码：https://github.com/Finb/Bark
+
+服务器端代码：https://github.com/Finb/bark-server
